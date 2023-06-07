@@ -6,7 +6,7 @@ import java.util.Random;
 
 public class StarrySky extends PApplet {
 
-    private static String version = "0.1";
+    private static String version = "1.0";
     private static boolean debug = false;
 
     public static void main(String[] args) {
